@@ -1,1 +1,4 @@
 # Research-Project_IIM-Kolkata
+### Collected property-related data for different geohashes using Rapid API for Zillow. Developed a data collection pipeline and implemented efficient algorithms to extract property attributes, pricing trends, and neighborhood characteristics.
+### Conducted data preprocessing and feature engineering on the collected data. Employed techniques such as data normalization, missing value imputation, one-hot encoding, and dimensionality reduction to enhance the predictive power of the ML models.
+### State-of-the-art ML algorithms, including regression models such as linear regression, decision trees, random forests, or neural networks, to be applied to accurately predict property valuation. Conducted hyperparameter tuning to optimize model performance and reduce overfitting.
